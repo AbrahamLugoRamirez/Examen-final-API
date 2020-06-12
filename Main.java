@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Jhonatan Salcedo
+ * @author Abraham Lugo Ramirez
  */
 public class NewMain {
 
